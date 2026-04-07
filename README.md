@@ -1,4 +1,4 @@
-# Online Shopping Mall
+# (仿天猫)Online Shopping Mall
 
 一个基于 `Vue 2 + Element UI + Spring Boot + MyBatis + MySQL` 的在线购物商城项目，包含前台商城与后台管理两部分，适合作为 Java Web / 前后端分离项目练习与毕业设计参考。
 
